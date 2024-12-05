@@ -1,0 +1,1 @@
+This project sends compresssed messages between two people using run-length encoding (Prompt 1). It also sends encrypted messages between two people in which the receiver can decrypt the hash and confirm that the hash matches the message by redoing the hash (Prompt 3).
